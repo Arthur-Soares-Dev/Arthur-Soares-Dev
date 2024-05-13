@@ -6,7 +6,9 @@
     <li>Aluno Cotemig</li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
- ![cotemig_logo](https://github.com/Arthur-Soares-Dev/Arthur-Soares-Dev/assets/168909173/dca71a91-503a-45a2-925c-3be9bf8e855a)
+![cotemig_logo](https://github.com/Arthur-Soares-Dev/Arthur-Soares-Dev/assets/168909173/dca71a91-503a-45a2-925c-3be9bf8e855a)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
 <br>
