@@ -8,8 +8,6 @@
 
 <br>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/304acb2c-d9a1-4a53-bb4c-2d6415f4dab5/deploy-status)](https://app.netlify.com/sites/portfolio-arthur-soares/deploys)
-
 # Tecnologias
 <div style="display: inline-block"><br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
