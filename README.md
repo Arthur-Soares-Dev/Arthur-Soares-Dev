@@ -3,15 +3,9 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li>Aluno Cotemig<div class="image"></div></span></li>
+    <li>Aluno Cotemig<div style="background-image:url('cotemig_logo.png');"></div></span></li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
-
-<style>
-.image {
-   background-image:url('cotemig_logo.png');
-}
-</style>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
