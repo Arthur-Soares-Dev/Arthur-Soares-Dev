@@ -7,7 +7,7 @@
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-soares-dev&layout=compact)
 </div>
 <br>
 
