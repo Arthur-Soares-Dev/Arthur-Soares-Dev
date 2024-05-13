@@ -3,16 +3,10 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li>Aluno Cotemig<img src="https://brulipe.com.br/img/cotemig.png" alt="Logo Cotemig" height="25px" class="cotemig"> </li>
+    <li>Aluno Cotemig<img src="https://brulipe.com.br/img/cotemig.png" alt="Logo Cotemig" height="25px" style="vertical-align:middle; 
+    margin-left: 5px"> </li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
-
-<style>
-.cotemig {
-    vertical-align:middle; 
-    margin-left: 5px
-}
-</style>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
