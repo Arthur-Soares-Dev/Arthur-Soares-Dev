@@ -3,7 +3,7 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li style="position:relative">Aluno Cotemig<img src="cotemig_logo.png" height="30px" alt="Cotemig_logo" style="position:absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);"></li>
+    <li>Aluno Cotemig<img src="cotemig_logo.png" height="30px" alt="Cotemig_logo"></li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
