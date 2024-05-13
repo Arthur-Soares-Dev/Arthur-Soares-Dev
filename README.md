@@ -3,11 +3,15 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li>Aluno Cotemig <span> ![cotemig_logo](https://github.com/Arthur-Soares-Dev/Arthur-Soares-Dev/assets/168909173/dca71a91-503a-45a2-925c-3be9bf8e855a) </span> </li>
+    <li>Aluno Cotemig<div class="image"></div></span></li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
-
+<style>
+.image {
+   background-image:url('cotemig_logo.png');
+}
+</style>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 </div>
