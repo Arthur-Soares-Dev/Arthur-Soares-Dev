@@ -3,7 +3,7 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li>Aluno Cotemig![cotemig_logo](https://github.com/Arthur-Soares-Dev/Arthur-Soares-Dev/assets/168909173/dca71a91-503a-45a2-925c-3be9bf8e855a)</li>
+    <li>Aluno Cotemig ![cotemig_logo](https://github.com/Arthur-Soares-Dev/Arthur-Soares-Dev/assets/168909173/dca71a91-503a-45a2-925c-3be9bf8e855a)</li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
