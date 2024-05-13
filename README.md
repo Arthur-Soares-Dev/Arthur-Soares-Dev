@@ -1,11 +1,14 @@
 ### Olá! Sou Arthur Soares 👋
+<div style="display: flex; ">
 
-<ul>
+<ul style="margin-right: 5%">
     <li>Desenvolvedor front-end 🧑‍💻</li>
     <li>Aluno Cotemig<img src="https://raichu-uploads.s3.amazonaws.com/logo_faculdade-cotemig_jeR1PV.png" alt="Logo Cotemig" height="25px" style="vertical-align:middle; margin-left: 5px"> </li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+</div>
 <br>
 
 # Tecnologias
