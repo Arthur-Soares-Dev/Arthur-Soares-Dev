@@ -1,5 +1,5 @@
 ### Olá! Sou Arthur Soares 👋
-<div style="display: flex; ">
+<div style="display: flex">
 
 <ul style="margin-right: 5%">
     <li>Desenvolvedor front-end 🧑‍💻</li>
