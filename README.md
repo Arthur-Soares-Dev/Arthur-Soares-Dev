@@ -3,7 +3,7 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li>Aluno Cotemig<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png"><img src="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png" style="vertical-align: middle;" height="30px" alt="Cotemig_logo" style="max-width: 100%;"></a></li>
+    <li>Aluno Cotemig<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png"><img src="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png"  height="30px" alt="Cotemig_logo" style="max-width: 100%; vertical-align: middle;"></a></li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
