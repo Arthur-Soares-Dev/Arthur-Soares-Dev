@@ -22,5 +22,7 @@
 
 
 <style>
-
+a {
+vertical-align: middle;
+}
 </style>
