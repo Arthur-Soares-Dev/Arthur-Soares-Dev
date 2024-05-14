@@ -3,8 +3,8 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li style="vertical-align: middle !important;">Aluno Cotemig<a style="vertical-align: middle !important;" target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png"><img src="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png"  height="30px" alt="Cotemig_logo" style="vertical-align: middle !important;"></a></li>
     <li>Apaixonado por tecnologia 💻</li>
+    <li>Aluno Cotemig</li>
 </ul>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-soares-dev&layout=compact)
