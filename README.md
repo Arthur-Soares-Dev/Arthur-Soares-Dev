@@ -3,7 +3,7 @@
 
 <ul>
     <li>Desenvolvedor front-end 🧑‍💻</li>
-    <li style="display:flex; vertical-align:middle">Aluno Cotemig<img src="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png" height="30px" alt="Cotemig_logo"></li>
+    <li style="vertical-align:middle">Aluno Cotemig<img style="vertical-align:middle" src="https://raw.githubusercontent.com/Arthur-Soares-Dev/Arthur-Soares-Dev/main/cotemig_logo.png" height="30px" alt="Cotemig_logo"></li>
     <li>Apaixonado por tecnologia 💻</li>
 </ul>
 
@@ -21,8 +21,3 @@
 <img align="center" alt="react" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
 
-<style>
-a {
-vertical-align: middle;
-}
-</style>
